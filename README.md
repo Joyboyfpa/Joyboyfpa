@@ -5,3 +5,8 @@ Hola estudie ingenieria industrial en la UPC, actualmente trabajo como consultor
 
 ## Contactame
 Mi vieje como programador recién empieza pero las ansias por el conocimiento no pararán. Siempre estoy buscando proyectos colaborativos y oportunidades para crecer.
+
+## Hobbies
+- Paser alos perros.
+- Escuchar música.
+- Leer libros.
