@@ -5,3 +5,6 @@ Hola estudie ingenieria industrial en la UPC, actualmente trabajo como consultor
 
 ## Contactame
 Mi vieje como programador recién empieza pero las ansias por el conocimiento no pararán. Siempre estoy buscando proyectos colaborativos y oportunidades para crecer.
+
+## Lenguajes
+Los lenguajes que domino son el inglés y el español.
