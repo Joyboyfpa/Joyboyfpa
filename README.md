@@ -6,10 +6,10 @@ Hola estudie ingenieria industrial en la UPC, actualmente trabajo como consultor
 ## Contactame
 Mi vieje como programador recién empieza pero las ansias por el conocimiento no pararán. Siempre estoy buscando proyectos colaborativos y oportunidades para crecer.
 
-<<<<<<< HEAD
+
 ## Lenguajes
-Los lenguajes que domino son el inglés y el español.
-=======
+-Los lenguajes que domino son el inglés y el español.
+
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
 
@@ -21,5 +21,3 @@ Los lenguajes que domino son el inglés y el español.
 - Paser alos perros.
 - Escuchar música.
 - Leer libros.
-
->>>>>>> f22b7fbbb022a27c300995e846bb44cb74da9009
